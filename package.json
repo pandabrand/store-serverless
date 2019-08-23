@@ -1,7 +1,7 @@
 {
   "name": "store-serverless",
   "version": "1.0.0",
-  "description": "My sweet Nuxt.js project",
+  "description": "My sweet Nuxt.js project for servless store",
   "author": "",
   "private": true,
   "scripts": {
