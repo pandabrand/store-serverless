@@ -21,7 +21,7 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       {
         rel: 'stylesheet',
-        type: 'stylesheet',
+        type: 'text/css',
         href: 'https://fonts.googleapis.com/css?family=Montserrat:300,600|PT+Serif&display=swap'
       }
     ]
