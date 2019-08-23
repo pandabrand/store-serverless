@@ -37,7 +37,7 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    'normalie.css',
+    'normalize.css',
     { src: '~/assets/main.scss', lang: 'sass' }
   ],
   /*
