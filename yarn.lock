@@ -3710,6 +3710,11 @@ dot-prop@^4.1.0, dot-prop@^4.1.1:
   dependencies:
     is-obj "^1.0.0"
 
+dotenv@^8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.1.0.tgz#d811e178652bfb8a1e593c6dd704ec7e90d85ea2"
+  integrity sha512-GUE3gqcDCaMltj2++g6bRQ5rBJWtkWTmqmD0fo1RnnMuUqHNCt2oTPeDnS9n6fKYvlhn7AeBkb38lymBtWBQdA==
+
 duplexer3@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
@@ -10140,7 +10145,7 @@ utils-merge@1.0.1:
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
   integrity sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=
 
-uuid@^3.3.2:
+uuid@^3.3.2, uuid@^3.3.3:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.3.tgz#4568f0216e78760ee1dbf3a4d2cf53e224112866"
   integrity sha512-pW0No1RGHgzlpHJO1nsVrHKpOEIxkGg1xB+v0ZmdNH5OAeAwzAVrCnI2/6Mtx+Uys6iaylxa+D3g4j63IKKjSQ==
@@ -10257,6 +10262,13 @@ vue-server-renderer@^2.6.10:
     resolve "^1.2.0"
     serialize-javascript "^1.3.0"
     source-map "0.5.6"
+
+vue-stripe-elements-plus@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/vue-stripe-elements-plus/-/vue-stripe-elements-plus-0.3.0.tgz#1abe387e935d43f05f4ffc414073d6ed19bc5b28"
+  integrity sha512-thPKZaDVjl8Du37jgeqQIMSQULqSav8f+XS3jgsLvqVsxs4Oxou9e5jPAyreYWhMITyqmyZdMmgCifgYFUyZ3w==
+  dependencies:
+    lodash "^4.17.11"
 
 vue-style-loader@^4.1.0:
   version "4.1.2"
