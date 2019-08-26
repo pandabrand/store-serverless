@@ -20,3 +20,5 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+[JAMSTACK](https://css-tricks.com/lets-build-a-jamstack-e-commerce-store-with-netlify-functions/)
