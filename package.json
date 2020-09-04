@@ -20,7 +20,7 @@
     "express": "^4.16.4",
     "gatsby-plugin-netlify-functions": "^0.0.3",
     "gsap": "^2.1.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "normalize.css": "^8.0.1",
     "nuxt": "^2.0.0",
     "sass-loader": "^7.3.1",
